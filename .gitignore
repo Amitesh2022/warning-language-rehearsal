@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.angular/
+*.tsbuildinfo
+backend/target/
+backend/data/
+.DS_Store
